@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "salon-site-main",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
